@@ -1,7 +1,14 @@
+$ConfirmPreference = "None"
+
 iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-#using -confirm:$false to skip installation confirmation messages
+choco feature enable -n allowGlobalConfirmation
 
 #programs
-choco install git -confirm:$false
-choco install visualstudiocode -confirm:$false
+choco install googlechrome
+choco install anti-beacon
+choco install utorrent
+choco install time4popcorn
+choco install git
+choco install visualstudiocode
+choco install visualstudio2017community

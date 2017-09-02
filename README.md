@@ -7,7 +7,7 @@ Run this command in PowerShell
 powershell -executionpolicy bypass iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Lakistein/WindowsChocoSetup/master/WindowsProgramInstall.ps1')) -confirm:$false
 ```
 
-Currently installs following applications:
+**Currently installs following applications:**
 
 - googlechrome
 - bsplayer

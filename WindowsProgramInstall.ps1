@@ -15,6 +15,7 @@ choco install utorrent
 choco install time4popcorn
 choco install git
 choco install notepadplusplus.install
+choco install 7zip
 choco install visualstudiocode
 choco install visualstudio2017community
 choco install sql-server-management-studio

@@ -16,5 +16,7 @@ powershell -executionpolicy bypass iex ((New-Object System.Net.WebClient).Downlo
 - time4popcorn
 - git
 - notepadplusplus.install
+- 7zip
 - visualstudiocode
 - visualstudio2017community
+- sql-server-management-studio

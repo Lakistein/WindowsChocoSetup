@@ -12,7 +12,6 @@ choco install googlechrome
 choco install bsplayer
 choco install anti-beacon
 choco install utorrent
-choco install time4popcorn
 choco install git
 choco install notepadplusplus.install
 choco install 7zip

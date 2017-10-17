@@ -13,7 +13,6 @@ powershell -executionpolicy bypass iex ((New-Object System.Net.WebClient).Downlo
 - bsplayer
 - anti-beacon
 - utorrent
-- time4popcorn
 - git
 - notepadplusplus.install
 - 7zip
